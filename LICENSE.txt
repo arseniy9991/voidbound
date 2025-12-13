@@ -1,0 +1,64 @@
+VOIDBOUND PROPRIETARY LICENSE — VERSION 1.0
+Effective Date: December 13, 2025
+
+Copyright (c) 2025 Arseniy Frolov
+All rights reserved.
+
+1. Scope of License
+This Proprietary License (the "License") applies to all materials related to the
+"Voidbound" project (the "Project"), including but not limited to:
+- the project name "Voidbound" and any derivative, similar, or confusingly similar names;
+- the launcher/client software, including source code and compiled binaries;
+- backend services, server-side software, and APIs;
+- mods, modpacks, configurations, builds, and related JAR files;
+- websites, domains, and web-based services of the Project;
+- graphics, logos, icons, fonts, texts, UI/UX design, and visual assets;
+- installers, archives, build scripts, and documentation;
+- any other materials directly or indirectly associated with the Project.
+
+2. Ownership and Restrictions
+2.1. All intellectual property rights, including copyright and trademark rights,
+     remain the exclusive property of the Rights Holder.
+2.2. Without prior written permission from the Rights Holder, it is strictly prohibited to:
+     a) use, reproduce, copy, distribute, or publish the name "Voidbound" or any similar designation;
+     b) modify, distribute, publish, rent, sell, sublicense, or otherwise commercially exploit
+        any part of the Project;
+     c) decompile, disassemble, reverse engineer, bypass security mechanisms, or attempt to
+        extract source code from any binary materials;
+     d) create derivative works or projects that may cause confusion regarding origin,
+        ownership, or affiliation with the Rights Holder;
+     e) use the Project’s trademarks, logos, branding, or domain names, or any marks
+        confusingly similar thereto.
+
+3. Permitted Use
+3.1. Users may download and run official binary releases of the Project exclusively
+     through official distribution channels designated by the Rights Holder.
+3.2. Any other use requires prior explicit written authorization from the Rights Holder.
+
+4. License Availability and Notices
+4.1. This License is publicly published in the official repository and on the official
+     website of the Project.
+4.2. Any authorized use of Project materials must include a reference to this License
+     and proper attribution to the Rights Holder.
+
+5. Disclaimer of Warranty and Liability
+5.1. The Project materials are provided "AS IS", without warranty of any kind, express or implied.
+5.2. The Rights Holder shall not be liable for any indirect, incidental, consequential,
+     or special damages, including loss of data or profits, arising from the use of the Project.
+
+6. Violations and Enforcement
+6.1. In the event of any violation of this License, the Rights Holder reserves the right
+     to demand immediate cessation of the violation, removal of infringing content,
+     and to pursue legal remedies available under applicable law.
+6.2. The Rights Holder may issue DMCA takedown notices and submit infringement requests
+     to hosting providers, platforms, and search engines.
+
+7. Miscellaneous
+7.1. Disclaimer: The Project is not affiliated with, endorsed by, or associated with
+     Mojang Studios or Microsoft. Minecraft is a trademark of Mojang Studios.
+7.2. If any provision of this License is held to be invalid or unenforceable,
+     the remaining provisions shall remain in full force and effect.
+7.3. For licensing permissions or inquiries, contact:
+     [arseniyfrolov1119@gmail.com] (replace with a valid contact address).
+
+END OF LICENSE
