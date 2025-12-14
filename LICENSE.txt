@@ -59,6 +59,6 @@ This Proprietary License (the "License") applies to all materials related to the
 7.2. If any provision of this License is held to be invalid or unenforceable,
      the remaining provisions shall remain in full force and effect.
 7.3. For licensing permissions or inquiries, contact:
-     [arseniyfrolov1119@gmail.com] (replace with a valid contact address).
+     [arseniyfrolov1119@gmail.com].
 
 END OF LICENSE
