@@ -1,8 +1,11 @@
-VOIDBOUND PROPRIETARY LICENSE — VERSION 1.0
+VOIDBOUND PROPRIETARY LICENSE — VERSION 1.1
 Effective Date: December 13, 2025
 
-Copyright (c) 2025 Arseniy Frolov
+Copyright (c) 2025
+Arseniy Frolov and Anastasia Lazareva
 All rights reserved.
+
+The term "Rights Holder(s)" refers to Arseniy Frolov and Anastasia Lazareva.
 
 1. Scope of License
 This Proprietary License (the "License") applies to all materials related to the
@@ -18,7 +21,7 @@ This Proprietary License (the "License") applies to all materials related to the
 
 2. Ownership and Restrictions
 2.1. All intellectual property rights, including copyright and trademark rights,
-     remain the exclusive property of the Rights Holder.
+     remain the exclusive property of the Rights Holders.
 2.2. Without prior written permission from the Rights Holder, it is strictly prohibited to:
      a) use, reproduce, copy, distribute, or publish the name "Voidbound" or any similar designation;
      b) modify, distribute, publish, rent, sell, sublicense, or otherwise commercially exploit
