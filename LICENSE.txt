@@ -2,7 +2,7 @@ VOIDBOUND PROPRIETARY LICENSE — VERSION 1.2
 Effective Date: December 13, 2025
 
 Copyright (c) 2025
-Arseniy Frolov
+Arseniy Frolov and Anastasia Lazareva
 All rights reserved.
 
 The term "Rights Holder(s)" refers to Arseniy Frolov and Anastasia Lazareva.
